@@ -1,0 +1,10 @@
+ru\newfeatures\controller\MainController.class
+ru\newfeatures\controller\LoginController.class
+ru\newfeatures\service\UserService.class
+ru\newfeatures\config\WebAppConfig.class
+ru\newfeatures\config\Initializer.class
+ru\newfeatures\service\UserServiceImpl.class
+ru\newfeatures\config\SecurityConfig.class
+ru\newfeatures\entity\enums\UserRoleEnum.class
+ru\newfeatures\service\UserDetailsServiceImpl.class
+ru\newfeatures\entity\User.class
